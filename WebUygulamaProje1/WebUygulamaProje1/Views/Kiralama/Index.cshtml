@@ -1,0 +1,60 @@
+﻿@using WebUygulamaProje1.Utility;
+@model List<Kiralama>
+@if(TempData["Basarili"] != null)
+{
+	<h2 style="color:red">@TempData["Basarili"]</h2> // Tempdata controller ile view arasında veri taşıyan bir yapıdır.
+}
+
+<h1>Kitap Kiralama İşlemi</h1><br/>
+<table class=" table table-bordered"> 
+	<thead>
+	<tr>
+		<th>Id</th>
+		<th>OgrenciId</th>
+		<th>KitapId</th>
+		<th></th>
+		<th></th>
+		
+	</tr>
+	</thead>
+
+	<tbody>
+		@foreach(var kiralama in Model)
+		{
+			<tr>
+				<td>@kiralama.Id</td>
+				<td>@kiralama.OgrenciId</td>
+				<td>@kiralama.Kitap.KitapAdi</td>
+				
+
+				<td> </td>
+				@if (User.IsInRole(UserRoles.Role_Admin))
+				{
+					
+				
+				<td>
+					<a asp-controller="Kiralama" asp-action="EkleGuncelle" asp-route-id="@kiralama.Id" type="button" class="btn btn-success" style="width:100px">Güncelle</a> 
+					@*Güncelle butonunu oluşturdum.*@
+					@* asp-route-id = sayfadaki kitap türünün id sini controllera göndermiş oldum.*@
+				</td>
+				<td>
+					<a asp-controller="Kiralama" asp-action="Sil" type="button" asp-route-id="@kiralama.Id" class="btn btn-danger" style="width:100px">Sil</a>
+					@* Sil butonuna id bağladık.*@
+				</td>
+				}
+			</tr>
+		}
+		
+
+	</tbody>
+</table>
+
+	<div class="row pt-3 pb-2">    
+		<div>  
+			<a asp-controller="Kiralama" asp-action="EkleGuncelle" class="btn btn-lg btn-primary" type="button">  @*Buton oluşturdum*@
+				Yeni Kiralama Kaydı Oluştur
+			</a>
+		</div>
+		
+
+	</div>

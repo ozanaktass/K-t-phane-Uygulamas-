@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\KütüphaneProje.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KütüphaneProje.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\css\\0001857016001-1.jpg",
+      "PackagePath": "staticwebassets\\css\\0001857016001-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\css\\Kucukprens.jpg",
+      "PackagePath": "staticwebassets\\css\\Kucukprens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\css\\WhatsApp Görsel 2023-09-07 saat 15.56.51.jpg",
+      "PackagePath": "staticwebassets\\css\\WhatsApp Görsel 2023-09-07 saat 15.56.51.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\1984jpg.jpg",
+      "PackagePath": "staticwebassets\\img\\1984jpg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\Beyazdiş.jpg",
+      "PackagePath": "staticwebassets\\img\\Beyazdiş.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\DedeKorkut.jpeg",
+      "PackagePath": "staticwebassets\\img\\DedeKorkut.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\Kucukprens.jpg",
+      "PackagePath": "staticwebassets\\img\\Kucukprens.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\Sefiller.jpeg",
+      "PackagePath": "staticwebassets\\img\\Sefiller.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\hayvançiftliği.jpg",
+      "PackagePath": "staticwebassets\\img\\hayvançiftliği.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\kutuphane-iha-2059040.jpg",
+      "PackagePath": "staticwebassets\\img\\kutuphane-iha-2059040.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\kütüphane.jpg",
+      "PackagePath": "staticwebassets\\img\\kütüphane.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\red-buttes-wilderness-mountain-range-silhouette-forest-2560x1080-4157.jpg",
+      "PackagePath": "staticwebassets\\img\\red-buttes-wilderness-mountain-range-silhouette-forest-2560x1080-4157.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\savasvebaris.jpg",
+      "PackagePath": "staticwebassets\\img\\savasvebaris.jpg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\img\\simyacı.jpeg",
+      "PackagePath": "staticwebassets\\img\\simyacı.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\OZAN\\source\\repos\\WebUygulamaProje1\\WebUygulamaProje1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.KütüphaneProje.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.KütüphaneProje.props",
+      "PackagePath": "build\\KütüphaneProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.KütüphaneProje.props",
+      "PackagePath": "buildMultiTargeting\\KütüphaneProje.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.KütüphaneProje.props",
+      "PackagePath": "buildTransitive\\KütüphaneProje.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

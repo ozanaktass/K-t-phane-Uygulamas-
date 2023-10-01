@@ -1,0 +1,68 @@
+﻿@using WebUygulamaProje1.Utility;
+@model List<Kitap>
+@if(TempData["Basarili"] != null)
+{
+	<h2 style="color:red">@TempData["Basarili"]</h2> // Tempdata controller ile view arasında veri taşıyan bir yapıdır.
+}
+
+<h1>Kitaplar</h1><br/>
+<table class=" table table-bordered"> 
+	<thead>
+	<tr>
+		<th>Id</th>
+		<th>KitapAdi</th>
+		<th>
+			Tanim
+		</th>
+		<th>Yazar</th>
+		<th>Fiyat</th>
+		<th>KitapTuru</th>
+	</tr>
+	</thead>
+
+	<tbody>
+		@foreach(var kitap in Model)
+		{
+			<tr>
+				<td>@kitap.Id</td>
+				<td>@kitap.KitapAdi</td>
+				<td>@kitap.Tanim</td>
+				<td>@kitap.Yazar</td>
+				<td>@kitap.Fiyat</td>
+				<td>@kitap.kitapTuru.Ad</td>
+
+				<td> </td>
+				@if (User.IsInRole(UserRoles.Role_Admin))
+				{
+					<td>
+						<a asp-controller="Kitap" asp-action="EkleGuncelle" asp-route-id="@kitap.Id" type="button" class="btn btn-success" style="width:100px">Güncelle</a>
+						@*Güncelle butonunu oluşturdum.*@
+						@* asp-route-id = sayfadaki kitap türünün id sini controllera göndermiş oldum.*@
+					</td>
+					<td>
+						<a asp-controller="Kitap" asp-action="Sil" type="button" asp-route-id="@kitap.Id" class="btn btn-danger" style="width:100px">Sil</a>
+						@* Sil butonuna id bağladık.*@
+					</td>
+				}
+				
+			</tr>
+		}
+		
+
+	</tbody>
+</table>
+
+	<div class="row pt-3 pb-2">    
+		<div>
+		@if (User.IsInRole(UserRoles.Role_Admin))
+		{
+			<a asp-controller="Kitap" asp-action="EkleGuncelle" class="btn btn-lg btn-primary" type="button">
+				@*Buton oluşturdum*@
+				Yeni Kitap Oluştur
+			</a>
+		}
+		
+		</div>
+		
+
+	</div>
